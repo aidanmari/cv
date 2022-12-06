@@ -1,0 +1,25 @@
+body    {
+    background-color: black;
+    color: whitesmoke;
+}
+
+hr {
+    background-color: none;
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: gray;
+    width: 3%;
+}
+
+img {
+    height: 250px;
+}
+
+h3  {
+    color: peachpuff;
+}
+
+h1  {
+    color: teal;
+}
